@@ -2,6 +2,8 @@
 
 ## Installation
 
+Note that this plugin is designed to work only on ://localhost*, you can edit the manifest.json if this is not suitable.
+
 - Open chrome
 - Click the three dots on the top right of chrome
 - Click more tools
