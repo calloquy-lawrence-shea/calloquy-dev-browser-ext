@@ -22,6 +22,6 @@ in the future.
 #### Open a new incognito window for each meeting participant.
 
 We have to schedule & test meetings often, and opening up 
-an incognito window for each user can repetitive. 
+an incognito window for each user can be repetitive. 
 This plugin adds a button that will open a new incognito window for 
-each meeting participant, making this process quick & easy.
+each meeting participant, speeding up the process of joining test meetings.
