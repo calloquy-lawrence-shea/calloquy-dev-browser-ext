@@ -1,0 +1,25 @@
+{
+  "name": "Calloquy Developer Helper Tools",
+  "description": "Helpful shortcuts for calloquy devs",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
+  "host_permissions": [
+    "*://localhost/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://localhost/*"],
+      "js": ["scripts/content_script.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/favicon.png"
+    }
+  },
+  "icons": {
+    "16": "/images/favicon.png"
+  }
+}
