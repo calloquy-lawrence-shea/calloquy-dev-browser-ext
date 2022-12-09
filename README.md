@@ -4,7 +4,7 @@
 
 Note that this plugin is designed to work only on localhost & *.calloquy.com, you can edit the manifest.json if this is not suitable.
 
-- Download this repository to your machine
+- Download this repository to your machine (unzipped)
 - Open chrome
 - Click the three dots on the top right of chrome
 - Click more tools
