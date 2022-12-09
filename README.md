@@ -14,6 +14,8 @@ Note that this plugin is designed to work only on localhost & *.calloquy.com, yo
 - Click the puzzle piece icon on the address bar
 - Click the pin on 'Calloquy Developer Helper Tools'
 
+This browser extension injects javascript into pages that live on localhost & *.calloquy.com, so if you had one of these pages open, then installed the browser extension, you will need to either close & open the browser or hard reload + clear cache on each relevant page.
+
 ## Features
 
 For now, this browser extension only does one thing, but 
